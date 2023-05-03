@@ -1,0 +1,177 @@
+[
+{
+    "id": 1,
+    "chef_name": "Massoud",
+    "years_of_experience": 20,
+    "num_of_recipes": 5,
+    "likes": 500,
+    "picture_url": "https://cdn.pixabay.com/photo/2018/05/07/14/06/chef-3389862_960_720.jpg",
+    "bio": "Chef Massoud has been cooking for over 20 years and specializes in traditional Afghan cuisine with a modern twist.",
+    "recipes": [
+        {
+            "recipe_name": "Kofta Challow",
+            "ingredients": ["ground beef", "onion", "rice", "oil", "salt"],
+            "cooking_method": "To make Kofta Challow, first combine the ground beef with grated onion and salt. Shape the mixture into small balls and brown them in hot oil until they are cooked through. Remove the kofta from the pan and set aside. In the same pan, sauté sliced onions until they are softened. Add rice and stir to coat with oil. Add water and bring to a boil. Reduce heat to low, cover, and simmer until the rice is cooked through. Arrange the kofta on top of the rice and serve.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Qabuli Palao",
+            "ingredients": ["basmati rice", "lamb", "carrots", "raisins", "almonds"],
+            "cooking_method": "To make Qabuli Palao, first rinse the basmati rice and soak for 30 minutes. In a separate pot, cook the lamb until it is browned on all sides. Add sliced carrots, raisins, and water. Bring to a boil and reduce heat to low, cover, and simmer until the lamb is tender. In a separate pan, toast the almonds until golden brown. Drain the soaked rice and add it to the pot with the lamb. Add more water if necessary and bring to a boil. Reduce heat to low, cover, and simmer until the rice is cooked through. Serve the palao with the toasted almonds on top.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Bolani",
+            "ingredients": ["flour", "potatoes", "onion", "cilantro", "salt"],
+            "cooking_method": "To make Bolani, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, boil the potatoes until they are tender. Mash the potatoes and mix with diced onion, chopped cilantro, and salt. Roll out the dough and add spoonfuls of the potato mixture onto each circle. Fold in half and press the edges together to seal. Heat oil in a pan and cook the bolani until golden brown on both sides. Serve hot.",
+            "rating": 4.2
+        }
+    ]
+},
+{
+    "id": 2,
+    "chef_name": "Farida Ayubi",
+    "years_of_experience": 15,
+    "num_of_recipes": 6,
+    "likes": 750,
+    "picture_url": "https://cdn.pixabay.com/photo/2016/03/23/07/45/chef-1271432_960_720.jpg",
+    "bio": "Chef Farida Ayubi is a renowned Afghan chef with over 15 years of experience in cooking traditional Afghan dishes. She has trained in some of the best culinary schools around the world and is known for her unique take on classic Afghan cuisine.",
+    "recipes": [
+        {
+            "recipe_name": "Bolani",
+            "ingredients": ["flour", "potatoes", "green onions", "cilantro", "salt"],
+            "cooking_method": "To make Bolani, first peel and chop the potatoes into small pieces. Boil until they are tender and drain. Mash the potatoes and add chopped green onions, cilantro, and salt. Mix well. Roll out the dough and cut into circles. Add a spoonful of the potato mixture in the center of each circle and fold in half. Press the edges together to seal. Heat oil in a pan and fry the bolani until they are golden brown on both sides. Serve hot.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Mantu",
+            "ingredients": ["flour", "ground beef", "onion", "garlic", "yogurt"],
+            "cooking_method": "To make Mantu, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, mix ground beef with chopped onion and garlic. Roll out the dough and cut into circles. Add a spoonful of the beef mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and garlic. Serve the dumplings with the yogurt sauce on top.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Kabob-e-Murgh",
+            "ingredients": ["chicken", "yogurt", "lemon juice", "saffron", "onion"],
+            "cooking_method": "To make Kabob-e-Murgh, first mix yogurt, lemon juice, and saffron in a bowl. Cut chicken into bite-sized pieces and marinate in the yogurt mixture for at least 30 minutes. Preheat the grill to medium-high heat. Thread the chicken pieces onto skewers and grill for about 10 minutes on each side or until fully cooked. In a separate pan, sauté sliced onions until they are softened. Serve the chicken kabobs with the sautéed onions on top.",
+            "rating": 4.2
+        }
+	]
+},
+{
+    "id": 3,
+    "chef_name": "Habib",
+    "years_of_experience": 15,
+    "num_of_recipes": 4,
+    "likes": 600,
+    "picture_url": "https://cdn.pixabay.com/photo/2016/01/19/18/05/chef-1150049_960_720.jpg",
+    "bio": "Chef Habib has been cooking for over 15 years and specializes in Afghan street food.",
+    "recipes": [
+        {
+            "recipe_name": "Bolani",
+            "ingredients": ["flour", "potatoes", "green onions", "cilantro", "cumin"],
+            "cooking_method": "To make Bolani, first boil the potatoes until they are tender. Mash the potatoes and mix with chopped green onions, cilantro, and cumin. Roll out the dough and cut into circles. Add a spoonful of the potato mixture in the center of each circle and fold in half. Press the edges together to seal. Fry the Bolani in hot oil until they are crispy and golden brown. Serve hot.",
+            "rating": 4.6
+        },
+        {
+            "recipe_name": "Mantu",
+            "ingredients": ["flour", "ground beef", "onion", "garlic", "yogurt"],
+            "cooking_method": "To make Mantu, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, mix ground beef with grated onion and minced garlic. Roll out the dough and cut into circles. Add a spoonful of the meat mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and minced garlic. Serve the dumplings with the yogurt sauce on top.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Chapli Kebab",
+            "ingredients": ["ground beef", "onion", "cilantro", "cumin", "paprika"],
+            "cooking_method": "To make Chapli Kebab, first mix ground beef with grated onion, chopped cilantro, cumin, paprika, and salt. Shape the mixture into flat patties. Heat a skillet over medium-high heat and cook the patties until they are browned on both sides and cooked through. Serve hot with sliced tomatoes and onions on top.",
+            "rating": 4.4
+        }
+    ]
+},
+{
+    "id": 4,
+    "chef_name": "Laila",
+    "years_of_experience": 10,
+    "num_of_recipes": 3,
+    "likes": 400,
+    "picture_url": "https://cdn.pixabay.com/photo/2018/05/31/11/54/woman-3446913_960_720.jpg",
+    "bio": "Chef Laila has been cooking for over 10 years and specializes in Afghan cuisine.",
+    "recipes": [
+        {
+            "recipe_name": "Qabili Palau",
+            "ingredients": ["basmati rice", "lamb shanks", "carrots", "raisins", "onions", "garlic", "cumin"],
+            "cooking_method": "To make Qabili Palau, first cook lamb shanks in a pressure cooker with onions, garlic, and cumin until they are tender. In a separate pot, cook basmati rice until it is fluffy. Grate carrots and fry them with raisins in oil until they are soft. Layer the rice and lamb shanks in a large pot, and sprinkle the carrot and raisin mixture on top. Cover the pot and cook over low heat until the flavors have melded together. Serve hot.",
+            "rating": 4.9
+        },
+        {
+            "recipe_name": "Borani Banjan",
+            "ingredients": ["eggplant", "tomatoes", "onion", "garlic", "yogurt"],
+            "cooking_method": "To make Borani Banjan, first slice eggplant into rounds and fry them in oil until they are browned. In a separate pan, sauté chopped onions and minced garlic until they are soft. Add chopped tomatoes and cook until they are soft. Layer the eggplant and tomato mixture in a baking dish. Bake in the oven until the flavors have melded together. Serve hot with a dollop of yogurt on top.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Ashak",
+            "ingredients": ["flour", "scallions", "leeks", "cilantro", "ground beef", "yogurt"],
+            "cooking_method": "To make Ashak, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, mix ground beef with chopped scallions, chopped leeks, chopped cilantro, and salt. Roll out the dough and cut into circles. Add a spoonful of the beef mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and minced garlic. Serve the dumplings with the yogurt sauce on top.",
+            "rating": 4.6
+        }
+    ]
+},
+{
+    "id": 5,
+    "chef_name": "Mohammad",
+    "years_of_experience": 12,
+    "num_of_recipes": 5,
+    "likes": 400,
+    "picture_url": "https://cdn.pixabay.com/photo/2016/11/18/19/07/food-1834111_960_720.jpg",
+    "bio": "Chef Mohammad has been cooking for over 12 years and specializes in traditional Afghan dishes.",
+    "recipes": [
+        {
+            "recipe_name": "Kabuli Pulao",
+            "ingredients": ["rice", "lamb", "onion", "carrots", "raisins"],
+            "cooking_method": "To make Kabuli Pulao, first brown the lamb in a large pot. Add sliced onions and cook until the onions are caramelized. Add sliced carrots and cook for a few more minutes. Add water and bring to a boil. Add rice and raisins and cook until the rice is tender and the water is absorbed. Serve hot with a side of yogurt.",
+            "rating": 4.9
+        },
+        {
+            "recipe_name": "Ashak",
+            "ingredients": ["flour", "scallions", "spinach", "coriander", "yogurt"],
+            "cooking_method": "To make Ashak, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, cook chopped spinach, scallions, and coriander in a pan until they are wilted. Roll out the dough and cut into circles. Add a spoonful of the spinach mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and minced garlic. Serve the dumplings with the yogurt sauce on top.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Qabili Palau",
+            "ingredients": ["rice", "lamb", "carrots", "raisins", "cumin"],
+            "cooking_method": "To make Qabili Palau, first brown the lamb in a large pot. Add sliced carrots and cook for a few minutes. Add water and bring to a boil. Add rice, raisins, and cumin and cook until the rice is tender and the water is absorbed. Serve hot.",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "id": 6,
+    "chef_name": "Nadia",
+    "years_of_experience": 10,
+    "num_of_recipes": 3,
+    "likes": 800,
+    "picture_url": "https://cdn.pixabay.com/photo/2021/01/08/08/33/cook-5891978_960_720.jpg",
+    "bio": "Chef Nadia has been cooking for over 10 years and specializes in Afghan cuisine.",
+    "recipes": [
+        {
+            "recipe_name": "Qabili Palau",
+            "ingredients": ["basmati rice", "lamb shanks", "carrots", "raisins", "onion", "garlic", "turmeric", "cumin", "cardamom", "cinnamon"],
+            "cooking_method": "To make Qabili Palau, first rinse the rice several times and soak for at least 30 minutes. Heat oil in a large pot and brown lamb shanks on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped carrots, raisins, and spices and cook for a few minutes. Return the lamb shanks to the pot and add enough water to cover them. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Remove the lamb shanks and set aside. Strain the liquid into a separate pot and add the soaked rice. Bring to a boil and then reduce the heat and let simmer until the rice is cooked through. Serve the rice topped with the lamb shanks and the cooked carrots and raisins.",
+            "rating": 4.9
+        },
+        {
+            "recipe_name": "Bamya",
+            "ingredients": ["okra", "lamb meat", "onion", "tomatoes", "garlic", "cilantro", "coriander", "turmeric"],
+            "cooking_method": "To make Bamya, first trim the tops off the okra and set aside. Heat oil in a pot and brown the lamb meat on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped tomatoes, spices, and some water and cook until the tomatoes are softened. Return the lamb meat to the pot and add enough water to cover the meat. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Add the trimmed okra and continue cooking until the okra is tender, about 15-20 minutes. Serve hot with chopped cilantro on top.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Sheer Birinj",
+            "ingredients": ["rice", "milk", "sugar", "cardamom", "pistachios"],
+            "cooking_method": "To make Sheer Birinj, first rinse the rice several times and soak for at least 30 minutes. In a separate pot, bring the milk to a boil and then reduce the heat and let simmer. Add the soaked rice to the milk and cook until the rice is soft and the mixture has thickened, about 30-40 minutes. Add sugar and cardamom and cook for another 5-10 minutes. Serve hot or cold, topped with chopped pistachios.",
+            "rating": 4.5
+        }
+    ]
+}
+
+]
