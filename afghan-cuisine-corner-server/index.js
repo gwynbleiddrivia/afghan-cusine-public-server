@@ -6,6 +6,7 @@ const cors = require('cors')
 app.use(cors())
 
 const chefs = require('./data/chefs.json')
+const blog = require('./data/blog.json')
 
 
 app.get('/',(req,res)=>{
@@ -13,6 +14,9 @@ app.get('/',(req,res)=>{
 })
 app.get('/chefs',(req,res)=>{
 	res.send(chefs)
+})
+app.get('/blog',(req,res)=>{
+	res.send(blog)
 })
 
 

@@ -33,35 +33,35 @@
 },
 {
     "id": 2,
-    "chef_name": "Fariba Ali Zada",
-    "years_of_experience": 15,
+    "chef_name": "Zia Karimi",
+    "years_of_experience": 10,
     "num_of_recipes": 3,
-    "likes": 750,
-    "picture_url": "https://www.handitalks.com/wp-content/uploads/2021/05/Chef-Fariba-1.jpg",
-    "bio": "Chef Fariba Ali Zada is a renowned Afghan chef with over 15 years of experience in cooking traditional Afghan dishes. She has trained in some of the best culinary schools around the world and is known for her unique take on classic Afghan cuisine.",
+    "likes": 800,
+    "picture_url": "https://www.unhcr.org/hk/wp-content/uploads/sites/13/2016/07/RF1104306_242281.jpg",
+    "bio": "Chef Zia Karimi has been cooking for over 10 years and specializes in Afghan cuisine.",
     "recipes": [
         {
             "recipe_id": 21,
-            "recipe_name": "Bolani",
-            "ingredients": ["flour", "potatoes", "green onions", "cilantro", "salt"],
-            "cooking_method": "To make Bolani, first peel and chop the potatoes into small pieces. Boil until they are tender and drain. Mash the potatoes and add chopped green onions, cilantro, and salt. Mix well. Roll out the dough and cut into circles. Add a spoonful of the potato mixture in the center of each circle and fold in half. Press the edges together to seal. Heat oil in a pan and fry the bolani until they are golden brown on both sides. Serve hot.",
-            "rating": 4.7
+            "recipe_name": "Qabili Palau",
+            "ingredients": ["basmati rice", "lamb shanks", "carrots", "raisins", "onion", "garlic", "turmeric", "cumin", "cardamom", "cinnamon"],
+            "cooking_method": "To make Qabili Palau, first rinse the rice several times and soak for at least 30 minutes. Heat oil in a large pot and brown lamb shanks on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped carrots, raisins, and spices and cook for a few minutes. Return the lamb shanks to the pot and add enough water to cover them. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Remove the lamb shanks and set aside. Strain the liquid into a separate pot and add the soaked rice. Bring to a boil and then reduce the heat and let simmer until the rice is cooked through. Serve the rice topped with the lamb shanks and the cooked carrots and raisins.",
+            "rating": 4.9
         },
         {
             "recipe_id": 22,
-            "recipe_name": "Mantu",
-            "ingredients": ["flour", "ground beef", "onion", "garlic", "yogurt"],
-            "cooking_method": "To make Mantu, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, mix ground beef with chopped onion and garlic. Roll out the dough and cut into circles. Add a spoonful of the beef mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and garlic. Serve the dumplings with the yogurt sauce on top.",
-            "rating": 4.5
+            "recipe_name": "Bamya",
+            "ingredients": ["okra", "lamb meat", "onion", "tomatoes", "garlic", "cilantro", "coriander", "turmeric"],
+            "cooking_method": "To make Bamya, first trim the tops off the okra and set aside. Heat oil in a pot and brown the lamb meat on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped tomatoes, spices, and some water and cook until the tomatoes are softened. Return the lamb meat to the pot and add enough water to cover the meat. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Add the trimmed okra and continue cooking until the okra is tender, about 15-20 minutes. Serve hot with chopped cilantro on top.",
+            "rating": 4.7
         },
         {
             "recipe_id": 23,
-            "recipe_name": "Kabob-e-Murgh",
-            "ingredients": ["chicken", "yogurt", "lemon juice", "saffron", "onion"],
-            "cooking_method": "To make Kabob-e-Murgh, first mix yogurt, lemon juice, and saffron in a bowl. Cut chicken into bite-sized pieces and marinate in the yogurt mixture for at least 30 minutes. Preheat the grill to medium-high heat. Thread the chicken pieces onto skewers and grill for about 10 minutes on each side or until fully cooked. In a separate pan, sauté sliced onions until they are softened. Serve the chicken kabobs with the sautéed onions on top.",
-            "rating": 4.2
+            "recipe_name": "Sheer Birinj",
+            "ingredients": ["rice", "milk", "sugar", "cardamom", "pistachios"],
+            "cooking_method": "To make Sheer Birinj, first rinse the rice several times and soak for at least 30 minutes. In a separate pot, bring the milk to a boil and then reduce the heat and let simmer. Add the soaked rice to the milk and cook until the rice is soft and the mixture has thickened, about 30-40 minutes. Add sugar and cardamom and cook for another 5-10 minutes. Serve hot or cold, topped with chopped pistachios.",
+            "rating": 4.5
         }
-	]
+    ]
 },
 {
     "id": 3,
@@ -161,35 +161,34 @@
 },
 {
     "id": 6,
-    "chef_name": "Zia Karimi",
-    "years_of_experience": 10,
+    "chef_name": "Fariba Ali Zada",
+    "years_of_experience": 15,
     "num_of_recipes": 3,
-    "likes": 800,
-    "picture_url": "https://www.unhcr.org/hk/wp-content/uploads/sites/13/2016/07/RF1104306_242281.jpg",
-    "bio": "Chef Zia Karimi has been cooking for over 10 years and specializes in Afghan cuisine.",
+    "likes": 750,
+    "picture_url": "https://www.handitalks.com/wp-content/uploads/2021/05/Chef-Fariba-1.jpg",
+    "bio": "Chef Fariba Ali Zada is a renowned Afghan chef with over 15 years of experience in cooking traditional Afghan dishes. She has trained in some of the best culinary schools around the world and is known for her unique take on classic Afghan cuisine.",
     "recipes": [
         {
             "recipe_id": 61,
-            "recipe_name": "Qabili Palau",
-            "ingredients": ["basmati rice", "lamb shanks", "carrots", "raisins", "onion", "garlic", "turmeric", "cumin", "cardamom", "cinnamon"],
-            "cooking_method": "To make Qabili Palau, first rinse the rice several times and soak for at least 30 minutes. Heat oil in a large pot and brown lamb shanks on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped carrots, raisins, and spices and cook for a few minutes. Return the lamb shanks to the pot and add enough water to cover them. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Remove the lamb shanks and set aside. Strain the liquid into a separate pot and add the soaked rice. Bring to a boil and then reduce the heat and let simmer until the rice is cooked through. Serve the rice topped with the lamb shanks and the cooked carrots and raisins.",
-            "rating": 4.9
-        },
-        {
-            "recipe_id": 62,
-            "recipe_name": "Bamya",
-            "ingredients": ["okra", "lamb meat", "onion", "tomatoes", "garlic", "cilantro", "coriander", "turmeric"],
-            "cooking_method": "To make Bamya, first trim the tops off the okra and set aside. Heat oil in a pot and brown the lamb meat on all sides, then remove from the pot. In the same pot, sauté sliced onions and garlic until softened. Add chopped tomatoes, spices, and some water and cook until the tomatoes are softened. Return the lamb meat to the pot and add enough water to cover the meat. Bring to a boil and then reduce the heat and let simmer for about 2 hours, or until the meat is tender. Add the trimmed okra and continue cooking until the okra is tender, about 15-20 minutes. Serve hot with chopped cilantro on top.",
+            "recipe_name": "Bolani",
+            "ingredients": ["flour", "potatoes", "green onions", "cilantro", "salt"],
+            "cooking_method": "To make Bolani, first peel and chop the potatoes into small pieces. Boil until they are tender and drain. Mash the potatoes and add chopped green onions, cilantro, and salt. Mix well. Roll out the dough and cut into circles. Add a spoonful of the potato mixture in the center of each circle and fold in half. Press the edges together to seal. Heat oil in a pan and fry the bolani until they are golden brown on both sides. Serve hot.",
             "rating": 4.7
         },
         {
-            "recipe_id": 63,
-            "recipe_name": "Sheer Birinj",
-            "ingredients": ["rice", "milk", "sugar", "cardamom", "pistachios"],
-            "cooking_method": "To make Sheer Birinj, first rinse the rice several times and soak for at least 30 minutes. In a separate pot, bring the milk to a boil and then reduce the heat and let simmer. Add the soaked rice to the milk and cook until the rice is soft and the mixture has thickened, about 30-40 minutes. Add sugar and cardamom and cook for another 5-10 minutes. Serve hot or cold, topped with chopped pistachios.",
+            "recipe_id": 62,
+            "recipe_name": "Mantu",
+            "ingredients": ["flour", "ground beef", "onion", "garlic", "yogurt"],
+            "cooking_method": "To make Mantu, first mix flour and water to form a dough. Knead the dough for several minutes until it is smooth. Let the dough rest for 30 minutes. In the meantime, mix ground beef with chopped onion and garlic. Roll out the dough and cut into circles. Add a spoonful of the beef mixture in the center of each circle and fold in half. Press the edges together to seal. Boil the dumplings in salted water until they float to the surface. Drain and set aside. In a separate bowl, mix yogurt and garlic. Serve the dumplings with the yogurt sauce on top.",
             "rating": 4.5
+        },
+        {
+            "recipe_id": 63,
+            "recipe_name": "Kabob-e-Murgh",
+            "ingredients": ["chicken", "yogurt", "lemon juice", "saffron", "onion"],
+            "cooking_method": "To make Kabob-e-Murgh, first mix yogurt, lemon juice, and saffron in a bowl. Cut chicken into bite-sized pieces and marinate in the yogurt mixture for at least 30 minutes. Preheat the grill to medium-high heat. Thread the chicken pieces onto skewers and grill for about 10 minutes on each side or until fully cooked. In a separate pan, sauté sliced onions until they are softened. Serve the chicken kabobs with the sautéed onions on top.",
+            "rating": 4.2
         }
-    ]
+	]
 }
-
 ]
